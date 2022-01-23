@@ -12,5 +12,7 @@ https://github.com/mbattaglia170/PyBer_Analysis/blob/main/Analysis/Key%20Metrics
 #Summary
 
 Overall, you need to incrase fare in urban settings to increase revenue. Increase drivers in suburban city types due to the influx of families to the suburbs with COVID. Increase drivers in suburban settings becuase their rides are longer than urban rides
+below you will see the increase in fares for suburban city types
+https://github.com/mbattaglia170/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png
 
 
